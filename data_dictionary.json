@@ -1,0 +1,11 @@
+[
+  {
+    "WBCs": "White Blood Cells",
+    "CRP": "C-reactive Protein",
+    "CK-MB": "Creatine kinase"
+  },
+  {
+    "CRP": "https://www.healthline.com/health/c-reactive-protein#What-is-C-reactive-protein?",
+    "CK-MB": "https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=167&contentid=creatine_kinase_mb"
+  }
+]
